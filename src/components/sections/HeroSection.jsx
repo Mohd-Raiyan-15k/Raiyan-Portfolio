@@ -44,7 +44,7 @@ function HeroSection() {
             <TypewriterText values={currentHero.titles} />
           </h1>
           <p className="mt-6 max-w-2xl text-base leading-8 text-[var(--muted)] sm:text-lg">
-            I am a passionate web developer with expertise in creating stunning and functional websites. With a strong background in front-end development, I specialize in crafting responsive and user-friendly interfaces that leave a lasting impression. My goal is to bring your vision to life through innovative design and seamless functionality. 
+            I am a passionate Frontend Developer with expertise in creating stunning and functional websites. With a strong background in Python Full Stack, I specialize in crafting responsive and user-friendly interfaces that leave a lasting impression. My goal is to bring your vision to life through innovative design and seamless functionality. 
           </p>
 
           <div className="mt-8 flex flex-wrap items-center gap-3">
