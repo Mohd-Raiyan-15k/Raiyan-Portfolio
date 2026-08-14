@@ -53,7 +53,7 @@ export const heroContent = {
   accent: "text-amber-500",
   button: "bg-amber-400/15 text-amber-600 ring-amber-400/40",
   image: heroOne,
-  titles: ["Software Developer", "Web Developer"],
+  titles: ["Frontend Developer", "Python Full Stack"],
 };
 
 export const aboutTabs = {
