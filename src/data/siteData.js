@@ -118,7 +118,7 @@ export const aboutTabs = {
       },
       {
         title: "VMCoder Technology",
-        meta: "Aug-2025 to July-2026 (1 year)",
+        meta: "Aug-2024 to Present (2+ year)",
         description:
           "VMCoder Technology is a leading software development company that provides innovative solutions for the digital transformation of businesses. During my internship at VMCoder Technology, I worked on various projects and gained hands-on experience in software development.",
       },
@@ -158,7 +158,7 @@ export const aboutProfileCard = {
     { label: "Name", value: "Mohd Raiyan" },
     { label: "Email", value: "mohdraiyan68@gmail.com" },
     { label: "Location", value: "India" },
-    { label: "Experience", value: "1+ Year" },
+    { label: "Experience", value: "2+ Year" },
   ],
   cvLabel: "Download CV",
   cvHref: "/MohdRaiyan_Resume.pdf",
