@@ -13,6 +13,7 @@ import {
   SiGithub,
   SiHtml5,
   SiJavascript,
+  SiNativescript,
   SiPython,
   SiReact,
   SiTailwindcss,
@@ -24,6 +25,7 @@ import workThree from "../../layout/images/work/img-3.png";
 import workFour from "../../layout/images/work/img-4.png";
 import { GrGithub } from "react-icons/gr";
 import { MdEmail } from "react-icons/md";
+import { FcNext } from "react-icons/fc";
 
 export const navLinks = [
   { id: "home", label: "Home" },
@@ -93,9 +95,21 @@ export const aboutTabs = {
         iconClassName: "text-[var(--text)] dark:text-white",
       },
       {
-        label: "React",
+        label: "React.js",
         value: 90,
         icon: SiReact,
+        iconClassName: "text-[#61dafb]",
+      },
+      {
+        label: "Next.js",
+        value: 80,
+        icon: FcNext,
+        iconClassName: "text-[#61dafb]",
+      },
+      {
+        label: "React Native",
+        value: 70,
+        icon: SiNativescript,
         iconClassName: "text-[#61dafb]",
       },
       {
