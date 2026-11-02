@@ -126,13 +126,13 @@ export const aboutTabs = {
     items: [
       {
         title: "Intership at QSpider",
-        meta: "Jan-2024 to June-2024 (6 months Experience)",
+        meta: "Jan-2025 to June-2025 (6 months Experience)",
         description:
           "QSpider is a leading software testing training institute that provides comprehensive training in software testing methodologies, tools, and best practices. During my internship at QSpider.",
       },
       {
         title: "VMCoder Technology",
-        meta: "Aug-2024 to Present (2+ year)",
+        meta: "Aug-2025 to Present (1+ year)",
         description:
           "VMCoder Technology is a leading software development company that provides innovative solutions for the digital transformation of businesses. During my internship at VMCoder Technology, I worked on various projects and gained hands-on experience in software development.",
       },
